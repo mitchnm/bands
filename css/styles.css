@@ -1,0 +1,16 @@
+body {
+  background: url("maroon.jpg");
+  background-size: cover;
+  font-size: 25px;
+}
+.UE {
+  border:2px solid yellow;
+  float: right;
+  background-color: white;
+}
+img {
+  float: left;
+}
+h1  {
+  text-align: center;
+}
